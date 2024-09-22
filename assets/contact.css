@@ -98,6 +98,11 @@ nav ul li a:hover {
     background:#fff;
     color:#000;
 }
+
+/* info color */
+.info {
+    color: #008000
+}
 .features {
 	margin: 4em auto;
 	padding: 1em;
